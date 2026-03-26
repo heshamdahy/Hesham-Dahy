@@ -1,3 +1,54 @@
+# Hi 👋, I'm Hesham Dahy
+
+🎯 Machine Learning Engineer | AI Enthusiast
+💡 Passionate about solving real-world problems using data
+
+---
+
+## 🚀 About Me
+
+* 🎓 Student focused on Artificial Intelligence & Machine Learning
+* 🤖 Building ML models and working with real datasets
+* 🎯 Goal: Become a professional AI Engineer & Researcher
+
+---
+
+## 🧠 Tech Stack
+
+* **Languages:** Python
+* **ML & AI:** Scikit-learn
+* **DL :** Pytorch , TensorFlow , Keras
+* **CV :** OpenCV 
+* **Data Analysis:** Pandas, NumPy
+* **Visualization:** Matplotlib, Seaborn
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Student Performance Prediction
+
+* Built models to predict student performance
+* Applied preprocessing (encoding, scaling)
+* Used Random Forest & Linear Regression
+
+👉 https://github.com/heshamdahy/student-performance-factors-ml
+
+---
+
+## 📈 GitHub Stats
+
+![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshamdahy\&show_icons=true\&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/hesham-dahy-9119503b8
+* 💻 GitHub: https://github.com/heshamdahy
+
+--
+
 ## 💻 Skills & Tools
 
 ### Skills
@@ -19,3 +70,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+-- 
+
+⭐ Always learning, building, and improving. 
