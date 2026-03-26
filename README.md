@@ -46,7 +46,9 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/hesham-dahy-9119503b8
 * 💻 GitHub: https://github.com/heshamdahy
-
+* 📧 Email: heshamdahy5@gmail.com
+* 📱 Phone: +20 110 381 1960
+   
 --
 
 ## 💻 Skills & Tools
