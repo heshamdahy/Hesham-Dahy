@@ -27,7 +27,7 @@
 ## 📊 Featured Projects
 
 
-### 💳 Credit Card Customer Churn Prediction
+### 💳 Credit Card Customer Churn Classification
 * Developed a high-accuracy classification pipeline to predict bank customer attrition.
 * **Key Results:** Achieved **96.25% accuracy** using Random Forest.
 * **Tech:** Python, Scikit-learn, Pearson Correlation, ROC/AUC Analysis.
