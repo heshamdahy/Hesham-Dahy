@@ -31,7 +31,7 @@
 * Developed a high-accuracy classification pipeline to predict bank customer attrition.
 * **Key Results:** Achieved **96.25% accuracy** using Random Forest.
 * **Tech:** Python, Scikit-learn, Pearson Correlation, ROC/AUC Analysis.
-👉 [View Repository](https://github.com/heshamdahy/credit-card-churn-prediction)
+👉 [View Repository](https://github.com/heshamdahy/customer-churn-classification-ml)
 
 ### 🔹 Student Performance Prediction
 
