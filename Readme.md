@@ -26,6 +26,13 @@
 
 ## 📊 Featured Projects
 
+
+### 💳 Credit Card Customer Churn Prediction
+* Developed a high-accuracy classification pipeline to predict bank customer attrition.
+* **Key Results:** Achieved **96.25% accuracy** using Random Forest.
+* **Tech:** Python, Scikit-learn, Pearson Correlation, ROC/AUC Analysis.
+👉 [View Repository](https://github.com/heshamdahy/credit-card-churn-prediction)
+
 ### 🔹 Student Performance Prediction
 
 * Built models to predict student performance
